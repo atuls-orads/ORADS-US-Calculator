@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+dist/
+build/
+.env.local
+.vercel/
+out/
